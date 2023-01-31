@@ -1,0 +1,22 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color:antiquewhite
+}
+
+.container {
+  margin: 5%;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: auto;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.programmers {
+  border: 2px dashed rgb(159, 159, 159);
+  width:200px;
+ justify-content: center;
+ text-align: center;
+
+}
